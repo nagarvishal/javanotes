@@ -28,6 +28,7 @@ class B extends A
 public class InheritanceConstructor {
     public static void main(String args[]){
         B b1 = new B(3,4);
+        System.out.println(b1.a);
     }
 }
 
