@@ -26,7 +26,7 @@
   class Dummy
   {
     final public void sumFunction(){
-
+      
     }
   }
   class MoreDummy extends Dummy
