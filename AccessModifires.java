@@ -54,9 +54,6 @@ class General { /* Outer Class */
         System.out.println(a);
         System.out.println("public function running");
     }
-    class dummy{ /* Inner class */
-
-    }
 }
 
 public class AccessModifires
