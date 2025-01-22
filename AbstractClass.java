@@ -1,7 +1,3 @@
-
-
-
-
 /** Abstract Class */
 /** Abstract Class are Declaired with the abstract keyword */
 /** An Abstract Class can't not instantiated */
